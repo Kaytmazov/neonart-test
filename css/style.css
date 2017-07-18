@@ -279,7 +279,7 @@ input[type="checkbox"]:checked + .checkbox-indicator::after {
   -ms-align-items: center;
   align-items: center;
   margin-top: 55px;
-  margin-bottom: 160px;
+  margin-bottom: 100px;
 }
 
 .content-footer .col-lg-6 span {
@@ -309,7 +309,7 @@ input[type="checkbox"]:checked + .checkbox-indicator::after {
 
 .photo-wrapper {
   position: relative;
-  left: 55px;
+  left: 65px;
   height: 100%;
 }
 
